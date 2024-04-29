@@ -68,5 +68,33 @@
     "title": "London Tube Analysis",
     "section": "Outputs",
     "text": "Outputs"
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html",
+    "href": "posts/data-science/data-science-module.html",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "",
+    "text": "This project was for my Data Science for Spatial Systems module as part of my Urban Spatial Science course at CASA, UCL.\nThe aim of this project was to use machine learning to assess the effectiveness of physical housing factors and demographic factors in predicting carbon emissions from London’s residential sector."
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html#summary",
+    "href": "posts/data-science/data-science-module.html#summary",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "",
+    "text": "This project was for my Data Science for Spatial Systems module as part of my Urban Spatial Science course at CASA, UCL.\nThe aim of this project was to use machine learning to assess the effectiveness of physical housing factors and demographic factors in predicting carbon emissions from London’s residential sector."
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html#objectives",
+    "href": "posts/data-science/data-science-module.html#objectives",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "Objectives",
+    "text": "Objectives\nThis project was completed using Python programming.\n\nClean and manipulate data.\nAssess for spatial autocorrelation.\nInclude spatial lag to the data for the machine learning models.\nCreate optimal XGBoost and Random Forest models and use.\nConduct a permutation features importance to determine which factors had the most predictive power over each machine learning model.\nAssess the performance on the models using R Squared and root-mean-squared-error values."
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html#outputs",
+    "href": "posts/data-science/data-science-module.html#outputs",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "Outputs",
+    "text": "Outputs\nThe full project can be found on this Github page."
   }
 ]

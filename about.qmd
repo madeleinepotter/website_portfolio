@@ -11,5 +11,3 @@ about:
       text: Github
       href: https://github.com/madeleinepotter
 ---
-
-About this blog

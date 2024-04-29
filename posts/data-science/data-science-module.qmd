@@ -3,3 +3,31 @@ title: "Predicting Carbon Emissions from London's Residential Sector"
 date: "2023-03-28"
 categories: [Python, machine learning]
 ---
+
+## Summary
+
+This project was for my Data Science for Spatial Systems module as part of my Urban Spatial Science course at CASA, UCL.
+
+The aim of this project was to use machine learning to assess the effectiveness of physical housing factors and demographic factors in predicting carbon emissions from London's residential sector.
+
+## Objectives
+
+This project was completed using Python programming.
+
+-   Clean and manipulate data.
+
+-   Assess for spatial autocorrelation.
+
+-   Include spatial lag to the data for the machine learning models.
+
+-   Create optimal XGBoost and Random Forest models and use.
+
+-   Conduct a permutation features importance to determine which factors had the most predictive power over each machine learning model.
+
+-   Assess the performance on the models using R Squared and root-mean-squared-error values.
+
+## Outputs
+
+The full project can be found on this [Github page](https://github.com/madeleinepotter/Data-Science-Coursework/tree/main).
+
+![](PFI.png){fig-align="center"}

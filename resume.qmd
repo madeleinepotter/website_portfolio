@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+<iframe width="800" height="800" src="images/madeleine_p_cv.pdf">
+
+</iframe>
