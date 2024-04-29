@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html",
+      "/posts/data-science/data-science-module.html",
       "/posts/post-with-code/index.html"
     ]
   }
