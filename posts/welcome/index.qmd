@@ -1,0 +1,30 @@
+---
+title: "London Tube Analysis"
+author: "Tristan O'Malley"
+date: "2024-04-26"
+categories: [Python, network analysis]
+---
+
+## Summary
+
+This was for the Urban Simulation module assignment for the Urban Spatial Science Msc at the Bartlett's Centre for Advanced Spatial Analysis, University College London.
+
+The aim of this project was to critically assess the resilience of London's Underground network taking into consideration the infrastructural network and then commuter flows.
+
+## Objectives
+
+This project was done using Python programming.
+
+-   Rank important stations by centrality measures.
+
+-   Investigate the impacts of station closures or disruptions through node removal.
+
+-   Create a weighted network by including commuter flows.
+
+-   Explore hypothetical scenarios, including a decrease in jobs in Canary Wharf and their impacts on commuter flows.
+
+## Outputs
+
+![](images/Screenshot 2024-04-29 123027.png){fig-align="center" width="448"}
+
+![](images/Screenshot 2024-04-29 123200.png){fig-align="center" width="474"}

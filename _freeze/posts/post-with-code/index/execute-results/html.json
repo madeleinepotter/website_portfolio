@@ -1,0 +1,15 @@
+{
+  "hash": "ed548939f4d05cf9c71fb22dbf39721b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Spatial Analysis of London's Residential Carbon Emissions\"\ndate: \"2023-03-28\"\ncategories: [Python, code, analysis, Spatial Regression]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

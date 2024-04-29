@@ -1,0 +1,27 @@
+---
+title: "Spatial Analysis of London's Residential Carbon Emissions"
+date: "2023-03-28"
+categories: [Python, code, analysis, Spatial Regression]
+---
+
+## Summary 
+
+This was my undergraduate dissertation project for the Geography with Spatial Data Science course at King's College London.
+
+The aim of this project was to investigate the geographies and causes of carbon emissions from household electricity and gas consumption in London. Then using the findings, assess the implications on the city's Retrofit London Housing Action Plan.
+
+## Objectives
+
+-   Clean and manipulate data using Python programming.
+
+-   Visualise the spatial distribution of carbon emission changes in London.
+
+-   Determine if spatial autocorrelation is present using Moran's I.
+
+-   Visualise hot and cold spots for carbon emissions through a local indicator of spatial association analysis.
+
+-   Conduct spatial regression analysis to understand causes of residential emissions from energy consumption.
+
+## Outputs
+
+![](gas_consumption.png){fig-align="center" width="485"}

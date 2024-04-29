@@ -1,0 +1,15 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/madeleine-potter-1945771b3/
+    - icon: github
+      text: Github
+      href: https://github.com/madeleinepotter
+---
+
+About this blog
