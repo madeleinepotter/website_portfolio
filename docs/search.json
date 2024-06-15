@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Madeleine Potter",
+    "section": "",
+    "text": "Walkability Analysis\n\n\n\n\n\n\n\n\n\n\n\nLondon Tube Analysis\n\n\n\nPython\n\n\nnetwork analysis\n\n\nmodelling\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Carbon Emissions from London’s Residential Sector\n\n\n\nPython\n\n\nmachine learning\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Analysis of London’s Residential Carbon Emissions\n\n\n\nPython\n\n\ncode\n\n\nanalysis\n\n\nSpatial Regression\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "London Tube Analysis",
+    "section": "",
+    "text": "This was for the Urban Simulation module assignment for the Urban Spatial Science Msc at the Bartlett’s Centre for Advanced Spatial Analysis, University College London.\nThe aim of this project was to critically assess the resilience of London’s Underground network taking into consideration the infrastructural network and then commuter flows."
+  },
+  {
+    "objectID": "posts/welcome/index.html#summary",
+    "href": "posts/welcome/index.html#summary",
+    "title": "London Tube Analysis",
+    "section": "",
+    "text": "This was for the Urban Simulation module assignment for the Urban Spatial Science Msc at the Bartlett’s Centre for Advanced Spatial Analysis, University College London.\nThe aim of this project was to critically assess the resilience of London’s Underground network taking into consideration the infrastructural network and then commuter flows."
+  },
+  {
+    "objectID": "posts/welcome/index.html#objectives",
+    "href": "posts/welcome/index.html#objectives",
+    "title": "London Tube Analysis",
+    "section": "Objectives",
+    "text": "Objectives\nThis project was done using Python programming.\n\nRank important stations by centrality measures.\nInvestigate the impacts of station closures or disruptions through node removal.\nCreate a weighted network by including commuter flows.\nExplore hypothetical scenarios, including a decrease in jobs in Canary Wharf and their impacts on commuter flows."
+  },
+  {
+    "objectID": "posts/welcome/index.html#outputs",
+    "href": "posts/welcome/index.html#outputs",
+    "title": "London Tube Analysis",
+    "section": "Outputs",
+    "text": "Outputs"
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html",
+    "href": "posts/data-science/data-science-module.html",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "",
+    "text": "This project was for my Data Science for Spatial Systems module as part of my Urban Spatial Science course at CASA, UCL.\nThe aim of this project was to use machine learning to assess the effectiveness of physical housing factors and demographic factors in predicting carbon emissions from London’s residential sector."
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html#summary",
+    "href": "posts/data-science/data-science-module.html#summary",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "",
+    "text": "This project was for my Data Science for Spatial Systems module as part of my Urban Spatial Science course at CASA, UCL.\nThe aim of this project was to use machine learning to assess the effectiveness of physical housing factors and demographic factors in predicting carbon emissions from London’s residential sector."
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html#objectives",
+    "href": "posts/data-science/data-science-module.html#objectives",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "Objectives",
+    "text": "Objectives\nThis project was completed using Python programming.\n\nClean and manipulate data.\nAssess for spatial autocorrelation.\nInclude spatial lag to the data for the machine learning models.\nCreate optimal XGBoost and Random Forest models and use.\nConduct a permutation features importance to determine which factors had the most predictive power over each machine learning model.\nAssess the performance on the models using R Squared and root-mean-squared-error values."
+  },
+  {
+    "objectID": "posts/data-science/data-science-module.html#outputs",
+    "href": "posts/data-science/data-science-module.html#outputs",
+    "title": "Predicting Carbon Emissions from London’s Residential Sector",
+    "section": "Outputs",
+    "text": "Outputs\nThe full project can be found on this Github page."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Spatial Analysis of London’s Residential Carbon Emissions",
+    "section": "",
+    "text": "This was my undergraduate dissertation project for the Geography with Spatial Data Science course at King’s College London.\nThe aim of this project was to investigate the geographies and causes of carbon emissions from household electricity and gas consumption in London. Then using the findings, assess the implications on the city’s Retrofit London Housing Action Plan."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#summary",
+    "href": "posts/post-with-code/index.html#summary",
+    "title": "Spatial Analysis of London’s Residential Carbon Emissions",
+    "section": "",
+    "text": "This was my undergraduate dissertation project for the Geography with Spatial Data Science course at King’s College London.\nThe aim of this project was to investigate the geographies and causes of carbon emissions from household electricity and gas consumption in London. Then using the findings, assess the implications on the city’s Retrofit London Housing Action Plan."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#objectives",
+    "href": "posts/post-with-code/index.html#objectives",
+    "title": "Spatial Analysis of London’s Residential Carbon Emissions",
+    "section": "Objectives",
+    "text": "Objectives\n\nClean and manipulate data using Python programming.\nVisualise the spatial distribution of carbon emission changes in London.\nDetermine if spatial autocorrelation is present using Moran’s I.\nVisualise hot and cold spots for carbon emissions through a local indicator of spatial association analysis.\nConduct spatial regression analysis to understand causes of residential emissions from energy consumption."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#outputs",
+    "href": "posts/post-with-code/index.html#outputs",
+    "title": "Spatial Analysis of London’s Residential Carbon Emissions",
+    "section": "Outputs",
+    "text": "Outputs"
+  },
+  {
+    "objectID": "posts/welcome/index.html#overview",
+    "href": "posts/welcome/index.html#overview",
+    "title": "London Tube Analysis",
+    "section": "",
+    "text": "This was for the Urban Simulation module assignment for the Urban Spatial Science Msc at the Bartlett’s Centre for Advanced Spatial Analysis, University College London.\nThe aim of this project was to critically assess the resilience of London’s Underground network taking into consideration the infrastructural network and then commuter flows."
+  },
+  {
+    "objectID": "posts/walkability-analysis/walkability-analysis.html",
+    "href": "posts/walkability-analysis/walkability-analysis.html",
+    "title": "Walkability Analysis",
+    "section": "",
+    "text": "The aim of this project was to assess how walkability to varying modes of public transport differ in two cities in the UK, Portsmouth and Southampton.\nTo assess this, a walkability index was produced for points of interest (POIs) that relate to public transport in each city. A routing analysis was performed using Pandana to calculate walking times from every node in the network to the nearest 10 POIs, with the limit of only calculating travel times that are within a 20 minute walk.\nThe betweenness centrality was also used as a proxy for predicted traffic flow to determine areas which may be experiencing high traffic. This was then used in conjunction with the walkability index to assess areas which may be experiencing high traffic but lack easily accessible public transport stops or stations.\nThis was done using Pandana and OSMnx on Python."
+  },
+  {
+    "objectID": "posts/walkability-analysis/walkability-analysis.html#overview",
+    "href": "posts/walkability-analysis/walkability-analysis.html#overview",
+    "title": "Walkability Analysis",
+    "section": "",
+    "text": "The aim of this project was to assess how walkability to varying modes of public transport differ in two cities in the UK, Portsmouth and Southampton.\nTo assess this, a walkability index was produced for points of interest (POIs) that relate to public transport in each city. A routing analysis was performed using Pandana to calculate walking times from every node in the network to the nearest 10 POIs, with the limit of only calculating travel times that are within a 20 minute walk.\nThe betweenness centrality was also used as a proxy for predicted traffic flow to determine areas which may be experiencing high traffic. This was then used in conjunction with the walkability index to assess areas which may be experiencing high traffic but lack easily accessible public transport stops or stations.\nThis was done using Pandana and OSMnx on Python."
+  },
+  {
+    "objectID": "posts/walkability-analysis/walkability-analysis.html#outputs",
+    "href": "posts/walkability-analysis/walkability-analysis.html#outputs",
+    "title": "Walkability Analysis",
+    "section": "Outputs",
+    "text": "Outputs"
+  }
+]

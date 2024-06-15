@@ -1,0 +1,19 @@
+---
+title: "Walkability Analysis"
+---
+
+## Overview
+
+The aim of this project was to assess how walkability to varying modes of public transport differ in two cities in the UK, Portsmouth and Southampton.
+
+To assess this, a walkability index was produced for points of interest (POIs) that relate to public transport in each city. A routing analysis was performed using Pandana to calculate walking times from every node in the network to the nearest 10 POIs, with the limit of only calculating travel times that are within a 20 minute walk.
+
+The betweenness centrality was also used as a proxy for predicted traffic flow to determine areas which may be experiencing high traffic. This was then used in conjunction with the walkability index to assess areas which may be experiencing high traffic but lack easily accessible public transport stops or stations.
+
+This was done using Pandana and OSMnx on Python.
+
+## Outputs
+
+![](walkability_southampton.png){fig-align="center"}
+
+![](walkability_portsmouth.png){fig-align="center"}

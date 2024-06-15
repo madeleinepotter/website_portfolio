@@ -4,7 +4,7 @@ date: "2023-03-28"
 categories: [Python, code, analysis, Spatial Regression]
 ---
 
-## Summary 
+## Summary
 
 This was my undergraduate dissertation project for the Geography with Spatial Data Science course at King's College London.
 

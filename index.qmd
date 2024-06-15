@@ -3,7 +3,8 @@ title: "Madeleine Potter"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: grid
+  fields: ['image', 'title', 'date', 'categories']
   categories: true
   sort-ui: false
   filter-ui: false
