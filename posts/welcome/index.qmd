@@ -4,7 +4,7 @@ date: "2024-04-22"
 categories: [Python, network analysis, modelling]
 ---
 
-## Summary
+## Overview
 
 This was for the Urban Simulation module assignment for the Urban Spatial Science Msc at the Bartlett's Centre for Advanced Spatial Analysis, University College London.
 
@@ -24,6 +24,6 @@ This project was done using Python programming.
 
 ## Outputs
 
-![](images/Screenshot 2024-04-29 123027.png){fig-align="center" width="448"}
+![](images/Screenshot%202024-04-29%20123027.png){fig-align="center" width="448"}
 
-![](images/Screenshot 2024-04-29 123200.png){fig-align="center" width="474"}
+![](images/Screenshot%202024-04-29%20123200.png){fig-align="center" width="474"}
