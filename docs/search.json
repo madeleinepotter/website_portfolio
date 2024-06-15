@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Madeleine Potter",
     "section": "",
-    "text": "Walkability Analysis\n\n\n\n\n\n\n\n\n\n\n\nLondon Tube Analysis\n\n\n\nPython\n\n\nnetwork analysis\n\n\nmodelling\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Carbon Emissions from London’s Residential Sector\n\n\n\nPython\n\n\nmachine learning\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Analysis of London’s Residential Carbon Emissions\n\n\n\nPython\n\n\ncode\n\n\nanalysis\n\n\nSpatial Regression\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Optimal Site Selection for Solar Panel Farm Indonesia\n\n\n\nQGIS\n\n\n\n\n\n\n\n\n\n\n\n\nLondon Tube Analysis\n\n\n\nPython\n\n\nnetwork analysis\n\n\nmodelling\n\n\n\n\nApr 22, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Carbon Emissions from London’s Residential Sector\n\n\n\nPython\n\n\nmachine learning\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Analysis of London’s Residential Carbon Emissions\n\n\n\nPython\n\n\ncode\n\n\nanalysis\n\n\nSpatial Regression\n\n\n\n\nMar 28, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWalkability Analysis\n\n\n\nPython\n\n\nnetwork analysis\n\n\n\n\nJan 13, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -115,6 +115,27 @@
     "objectID": "posts/walkability-analysis/walkability-analysis.html#outputs",
     "href": "posts/walkability-analysis/walkability-analysis.html#outputs",
     "title": "Walkability Analysis",
+    "section": "Outputs",
+    "text": "Outputs"
+  },
+  {
+    "objectID": "posts/optimal-site-selection/optimal-site-selection.html",
+    "href": "posts/optimal-site-selection/optimal-site-selection.html",
+    "title": "Optimal Site Selection for Solar Panel Farm Indonesia",
+    "section": "",
+    "text": "With the demand for renewable energy in Indonesia increasing, especially with the development of the new capital city in Kalimantan, suitable areas for a solar panel site was explored.\nConstraints considered were photovoltaic potential, conservation areas and slopes. Factors considered were proximity to established roads and to urban areas.\nThree suitable sites in the study area were found that were large enough for a 1km2 solar farm. Additionally, a large area of land along the coast also met the conditions for having a productive solar panel farm."
+  },
+  {
+    "objectID": "posts/optimal-site-selection/optimal-site-selection.html#overview",
+    "href": "posts/optimal-site-selection/optimal-site-selection.html#overview",
+    "title": "Optimal Site Selection for Solar Panel Farm Indonesia",
+    "section": "",
+    "text": "With the demand for renewable energy in Indonesia increasing, especially with the development of the new capital city in Kalimantan, suitable areas for a solar panel site was explored.\nConstraints considered were photovoltaic potential, conservation areas and slopes. Factors considered were proximity to established roads and to urban areas.\nThree suitable sites in the study area were found that were large enough for a 1km2 solar farm. Additionally, a large area of land along the coast also met the conditions for having a productive solar panel farm."
+  },
+  {
+    "objectID": "posts/optimal-site-selection/optimal-site-selection.html#outputs",
+    "href": "posts/optimal-site-selection/optimal-site-selection.html#outputs",
+    "title": "Optimal Site Selection for Solar Panel Farm Indonesia",
     "section": "Outputs",
     "text": "Outputs"
   }

@@ -1,0 +1,16 @@
+---
+title: "Optimal Site Selection for Solar Panel Farm Indonesia"
+categories: [QGIS]
+---
+
+## Overview
+
+With the demand for renewable energy in Indonesia increasing, especially with the development of the new capital city in Kalimantan, suitable areas for a solar panel site was explored.
+
+Constraints considered were photovoltaic potential, conservation areas and slopes. Factors considered were proximity to established roads and to urban areas.
+
+Three suitable sites in the study area were found that were large enough for a 1km2 solar farm. Additionally, a large area of land along the coast also met the conditions for having a productive solar panel farm.
+
+## Outputs
+
+![](solar-panel-image.png){fig-align="center"}
